@@ -1,0 +1,6 @@
+{
+  "mongo": "mongodb+srv://goyal079:start123@cluster0.c8dzx.mongodb.net/service?retryWrites=true&w=majority",
+  "aeskey": "luffytaro",
+  "jwtkey": "zorojuro",
+  "url": "http://localhost:4000"
+}
